@@ -5,6 +5,6 @@
 
 <div align="center">
    
-  [![Tu actividad en GitHub](https://github-readme-activity-graph.vercel.app/graph?username=tincke10&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Tu actividad en GitHub](https://github-readme-activity-graph.vercel.app/graph?username=tincke10&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
    
 </div>
