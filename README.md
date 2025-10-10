@@ -28,26 +28,12 @@
 <!-- Social Links -->
 <h3 align="center">Connect with Me</h3>
 <p align="center">
-  <a href="https://twitter.com/tincke10" target="_blank">Twitter</a> |
-  <a href="https://www.linkedin.com/in/tincke10" target="_blank">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/tincke10](https://www.linkedin.com/in/moreiramartin" target="_blank">LinkedIn</a> |
   <a href="https://dev.to/tincke10" target="_blank">Dev.to</a> |
-  <a href="https://www.twitch.tv/tincke10" target="_blank">Twitch</a>
 </p>
 
 ---
 
-<!-- Featured Projects -->
-<h3 align="center">Featured Projects</h3>
-<p align="center">
-  <a href="https://github.com/tincke10/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tincke10&repo=project1&theme=radical" alt="Project 1">
-  </a>
-  <a href="https://github.com/tincke10/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tincke10&repo=project2&theme=radical" alt="Project 2">
-  </a>
-</p>
-
----
 
 <!-- Inspirational Quote -->
 <p align="center">
