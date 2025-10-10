@@ -5,6 +5,6 @@
 
 <div align="center">
    
-   ![tincke GitHub stats](https://github-readme-stats.vercel.app/api?username=tincke10&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
+   [![Tu actividad en GitHub](https://github-readme-activity-graph.vercel.app/graph?username=tu-usuario&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
    
 </div>
