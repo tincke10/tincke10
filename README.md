@@ -59,13 +59,13 @@ drwxr-xr-x  history-arg/      → open knowledge · argentine history
 ### ~/stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tincke10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats">
+  <img src="./metrics.svg" alt="GitHub Metrics">
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tincke10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages">
+  <img src="./metrics-languages.svg" alt="Top Languages">
 </p>
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tincke10&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&hide_border=true" alt="Activity Graph">
+  <img src="./metrics-calendar.svg" alt="Contribution Calendar">
 </p>
 
 <picture>
