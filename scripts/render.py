@@ -40,8 +40,8 @@ CONTACT = [
     ("martinmoreira.site", "https://martinmoreira.site"),
 ]
 NOW_LINES = [
-    "building AI agents and RAG pipelines that actually run in prod",
-    "poking at event-driven systems, pgvector and whatever breaks at 3am",
+    "shipping AI agents and RAG pipelines that actually run in prod",
+    "cloud-native backends on AWS: multi-tenant SaaS, event-driven where it pays off",
     "writing it down on dev.to when it is worth it",
 ]
 WHOAMI = "martin · software engineer | innovation engineering · buenos aires, ar"
