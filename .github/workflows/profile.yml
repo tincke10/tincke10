@@ -2,7 +2,7 @@ name: Render profile
 
 on:
   schedule:
-    - cron: "0 4 * * *"
+    - cron: "0 3,15 * * *"  # 00:00 and 12:00 America/Argentina/Buenos_Aires
   workflow_dispatch:
   push:
     branches: [main]
